@@ -15,7 +15,7 @@ Welcome to my Github profile! I'm currently learning the ins and outs of softwar
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** HTML, CSS, JavaScript *(example)*
+- **Languages:** HTML, CSS, JavaScript **
 - **Tools:** Git, GitHub, VS Code
 
 ---
