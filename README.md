@@ -11,10 +11,10 @@ I'm interested in **data, technology, programming, and building things from scra
 ### 🌷 A Little About Me
 
 - 🎓 **Currently:** Studying Data Engineering at Universiti Teknologi Malaysia (UTM)
-- 💻 **Learning:** HTML, CSS, JavaScript, Git & GitHub
+- 💻 **Learning:** HTML, CSS, C++, Git & GitHub
 - 🌱 **Currently working on:** Small projects to strengthen my programming fundamentals
 - 📊 **Interested in:** Data Engineering, Data & Technology, Cloud Computing and Problem Solving
-- 🧠 **Learning style:** Try → Break something → Google it → Fix it → Learn from it 😭
+- 🧠 **Learning style:** Try → Break something → Google it → Fix it → Learn from it 
 - ✨ **Goal:** Keep improving and build projects that I'm actually proud of
 
 ---
@@ -24,7 +24,7 @@ I'm interested in **data, technology, programming, and building things from scra
 **Languages & Web**
 - 🌐 HTML
 - 🎨 CSS
-- ⚡ JavaScript
+- ⚡ C++
 
 **Tools**
 - 🐙 Git & GitHub
